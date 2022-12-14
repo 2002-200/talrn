@@ -88,3 +88,12 @@ div {
     margin: 20px;
     background: linear-gradient(#ecd38e 5%, #eabf48 100%)
   }
+
+div.class{
+    width: 80%;
+    margin-top: 20%;
+    border: 15px solid rgb(106, 79, 6);
+    padding: 50px;
+    margin: 20px;
+    background: linear-gradient(#ecd38e 5%, #eabf48 100%)
+  }
