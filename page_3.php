@@ -9,9 +9,10 @@
 </head>
 <body>
     <form action="page_1.php">
-        <?php
+       <div> <?php
         echo "Thankyou for submitting the form";
         ?>
+        </div>
     </form>
 </body>
 </html>
